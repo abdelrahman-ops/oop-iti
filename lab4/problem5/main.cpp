@@ -222,8 +222,8 @@ int main()
     do{
         choice = ShowMenu();
 
-        if (choice == -1 || choice == 5)
-            break;
+//        if (choice == -1 || choice == 5)
+//            break;
 
         clrscr();
 
